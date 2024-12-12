@@ -1,7 +1,7 @@
 {
   "name": "@riza-io/riza-mcp",
   "author": "Riza (https://riza.io)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Model Context Protocol server for Riza's Code Interpreter",
   "main": "index.js",
   "type": "module",

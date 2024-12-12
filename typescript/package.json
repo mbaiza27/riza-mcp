@@ -1,5 +1,5 @@
 {
-  "name": "@riza-io/mcp-riza",
+  "name": "@riza-io/riza-mcp",
   "author": "Riza (https://riza.io)",
   "version": "0.1.0",
   "description": "A Model Context Protocol server for Riza's Code Interpreter",

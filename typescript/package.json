@@ -1,12 +1,12 @@
 {
   "name": "@riza-io/riza-mcp",
   "author": "Riza (https://riza.io)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Model Context Protocol server for Riza's Code Interpreter",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "riza-mcp": "./build/index.js"
+    "riza-mcp": "build/index.js"
   },
   "scripts": {
     "build": "tsc && node -e \"require('fs').chmodSync('build/index.js', '755')\""

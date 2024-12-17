@@ -5,7 +5,7 @@
 Our MCP server implementation wraps the Riza API and presents
 endpoints as individual tools.
 
-Configure with Claude Desktop as below, or adapt as necessary for your MCP client. Get a free Riza API key in your [Riza Dashbard](https://dashboard.riza.io).
+Configure with Claude Desktop as below, or adapt as necessary for your MCP client. Get a free Riza API key in your [Riza Dashboard](https://dashboard.riza.io).
 
 ```json
 {
